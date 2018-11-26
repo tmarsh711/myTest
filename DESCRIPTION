@@ -1,0 +1,12 @@
+Package: myTest
+Type: Package
+Title: Testing R as an IDE.
+Version: 0.1.0
+Author: Tracey L. Marsh
+Maintainer: Tracey L. Marsh <marsh_tracey@hotmail.com>
+Description: Not a whole heck of a lot.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+URL: http://github.com/tmarsh711/myTest
+BugReports: http://github.com/tmarsh711/myTest/issues
