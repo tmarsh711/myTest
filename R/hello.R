@@ -1,6 +1,6 @@
 # Hello, world!
 #
-# This is an example function named 'hello' 
+# This is an example function named 'hello'
 # which prints 'Hello, world!'.
 #
 # You can learn more about package authoring with RStudio at:
@@ -19,4 +19,8 @@ hello <- function() {
 
 goodbye <- function(){
   print("Goodbye, cruel world.")
+}
+
+sweetDreams <- function(){
+  print("Sweet dreams. Don't let the bed bugs bite!")
 }
