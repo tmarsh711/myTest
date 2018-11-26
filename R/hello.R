@@ -1,6 +1,10 @@
 # Hello, world!
 #
+<<<<<<< HEAD
 # This is an example function named 'hello'
+=======
+# This is an example function named 'hello' 
+>>>>>>> refs/remotes/origin/master
 # which prints 'Hello, world!'.
 #
 # You can learn more about package authoring with RStudio at:
@@ -20,7 +24,10 @@ hello <- function() {
 goodbye <- function(){
   print("Goodbye, cruel world.")
 }
+<<<<<<< HEAD
 
 sweetDreams <- function(){
   print("Sweet dreams. Don't let the bed bugs bite!")
 }
+=======
+>>>>>>> refs/remotes/origin/master
